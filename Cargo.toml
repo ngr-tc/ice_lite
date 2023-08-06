@@ -1,0 +1,12 @@
+[package]
+name = "ice_lite"
+version = "0.0.0"
+edition = "2021"
+authors = ["Rain Liu <yliu@webrtc.rs>"]
+description = "ICE Lite in Rust"
+license = "MIT/Apache-2.0"
+documentation = "https://docs.rs/ice_lite"
+homepage = "https://webrtc.rs"
+repository = "https://github.com/ngr-tc/ice_lite"
+
+[dependencies]
